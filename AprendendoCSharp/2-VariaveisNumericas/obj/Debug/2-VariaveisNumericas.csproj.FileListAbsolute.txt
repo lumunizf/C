@@ -1,0 +1,7 @@
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\bin\Debug\2-VariaveisNumericas.exe.config
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\bin\Debug\2-VariaveisNumericas.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\bin\Debug\2-VariaveisNumericas.pdb
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\obj\Debug\2-VariaveisNumericas.csprojAssemblyReference.cache
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\obj\Debug\2-VariaveisNumericas.csproj.CoreCompileInputs.cache
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\obj\Debug\2-VariaveisNumericas.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\2-VariaveisNumericas\obj\Debug\2-VariaveisNumericas.pdb
