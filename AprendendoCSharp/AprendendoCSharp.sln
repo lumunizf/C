@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{D3E49BA0-75A4-4FD3-9C0F-C9D21B8001CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{277B4A94-EF7A-4880-9776-F8E5D91293ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuiçõesDeVariaveis", "6-AtribuiçõesDeVariaveis\6-AtribuiçõesDeVariaveis.csproj", "{7510D529-E4FF-4F93-9477-7293225FABA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D3E49BA0-75A4-4FD3-9C0F-C9D21B8001CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E49BA0-75A4-4FD3-9C0F-C9D21B8001CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E49BA0-75A4-4FD3-9C0F-C9D21B8001CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277B4A94-EF7A-4880-9776-F8E5D91293ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277B4A94-EF7A-4880-9776-F8E5D91293ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277B4A94-EF7A-4880-9776-F8E5D91293ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277B4A94-EF7A-4880-9776-F8E5D91293ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7510D529-E4FF-4F93-9477-7293225FABA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7510D529-E4FF-4F93-9477-7293225FABA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7510D529-E4FF-4F93-9477-7293225FABA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7510D529-E4FF-4F93-9477-7293225FABA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
