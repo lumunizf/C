@@ -1,0 +1,7 @@
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\bin\Debug\9.1-Switch-Case.exe.config
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\bin\Debug\9.1-Switch-Case.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\bin\Debug\9.1-Switch-Case.pdb
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\obj\Debug\9.1-Switch-Case.csprojAssemblyReference.cache
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\obj\Debug\9.1-Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\obj\Debug\9.1-Switch-Case.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\9.1-Switch-Case\obj\Debug\9.1-Switch-Case.pdb
