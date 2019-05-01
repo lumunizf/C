@@ -1,0 +1,6 @@
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\bin\Debug\8-CondicionaisII.exe.config
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\bin\Debug\8-CondicionaisII.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\bin\Debug\8-CondicionaisII.pdb
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\obj\Debug\8-CondicionaisII.csproj.CoreCompileInputs.cache
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\obj\Debug\8-CondicionaisII.exe
+C:\Users\lumun\cursos\BackEnd\CSharp\AprendendoCSharp\8-CondicionaisII\obj\Debug\8-CondicionaisII.pdb
